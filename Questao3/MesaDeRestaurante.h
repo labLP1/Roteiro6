@@ -1,10 +1,3 @@
-/*
- * MesaDeRestaurante.h
- *
- *  Created on: 20/09/2017
- *      Author: Raphael
- */
-
 #ifndef MESADERESTAURANTE_H_
 #define MESADERESTAURANTE_H_
 
