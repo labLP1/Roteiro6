@@ -1,9 +1,3 @@
-/*
- * Pedido.cpp
- *
- *  Created on: 20/09/2017
- *      Author: Raphael
- */
 
 #include "Pedido.h"
 

@@ -21,8 +21,9 @@ void RestauranteCaseiro::zerarMesas(){
 	this->auxiliar = 0;
 }
 
-void RestauranteCaseiro::adcionaAoPedido( int x){
-	this->mesa[x--].adiconaAoPedido();
+void RestauranteCaseiro::adicionaAoPedido(){
+	int i=0;
+	this->mesa[i++].adicionaAoPedido();
 }
 
 

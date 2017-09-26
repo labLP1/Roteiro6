@@ -19,7 +19,7 @@ private:
 	MesaDeRestaurante mesa[MAX_MESAS];
 
 public:
-	void adcionaAoPedido(int x);
+	void adicionaAoPedido();
 	double calculaTotalRestaurante();
 	void zerarMesas();
 	RestauranteCaseiro();

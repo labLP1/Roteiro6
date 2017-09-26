@@ -1,6 +1,7 @@
 #ifndef MESADERESTAURANTE_H_
 #define MESADERESTAURANTE_H_
 
+#include <string>
 #include <iostream>
 #include "Pedido.h"
 #define MAX_PEDIDOS 100
@@ -12,7 +13,7 @@ private:
 	int auxiliar = 0;
 
 public:
-	void adiconaAoPedido();
+	void adicionaAoPedido();
 	void zeraPedidos();
 	double calculaPedidos();
 	MesaDeRestaurante();
