@@ -1,13 +1,3 @@
-/*
- * MesaDeRestaurante.cpp
- *
- *  Created on: 20/09/2017
- *      Author: Raphael 
- */
-
-//raphael quer aparecer botando o nome dele na criação by: vanessa
-//o grupo concorda by grupo
-
 #include "MesaDeRestaurante.h"
 
 MesaDeRestaurante::MesaDeRestaurante() {

@@ -1,10 +1,3 @@
-/*
- * Pedido.h
- *
- *  Created on: 20/09/2017
- *      Author: Raphael
- */
-
 #ifndef PEDIDO_H_
 #define PEDIDO_H_
 

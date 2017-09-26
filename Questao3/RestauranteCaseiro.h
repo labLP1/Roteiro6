@@ -1,10 +1,3 @@
-/*
- * RestauranteCaseiro.h
- *
- *  Created on: 20/09/2017
- *      Author: Raphael
- */
-
 #ifndef RESTAURANTECASEIRO_H_
 #define RESTAURANTECASEIRO_H_
 
