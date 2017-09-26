@@ -22,6 +22,6 @@ int Televisao::getVolume(){ return this->volume; }
 
 int Televisao::ehNumero( char n ){
     int i;  
-    for (i = 1; i < 10 ; i++) if( n == 48 + i ) return i;
+    for (i = 1; i < 10 ; i++) if( n == 48 + i ) return i ;
     return 0; 	
 }
